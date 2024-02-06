@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap')
+;
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 220, 214) !important;
+    font-family: "Crimson Text", serif;
+}
+*{margin: 0;
+padding: 0;
+overflow-x: unset;}
+.first{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.motivationandproblem{width: 90vw;
+height: 90vh;}
+.motivation{
+    display: flex;
+    width: 45wh;
+    height: 45vh;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
